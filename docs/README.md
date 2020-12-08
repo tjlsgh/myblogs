@@ -1,7 +1,5 @@
-# Headline
+# :100:
 
-> An awesome project.
+> An blog.
 
-我是内容我是Headline
-
-## 我是Headline标题
+My site is published at [https://tjlsgh.github.io/myblogs/](https://tjlsgh.github.io/myblogs/ "my site")
